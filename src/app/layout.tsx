@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     { name: "Mohammad" },
     {
       name: "Mohammad",
-      url: "https://github.com/mamad-1999",
+      url: "https://github.com/blackvoidx",
     },
   ],
   icons: [
