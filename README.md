@@ -4,7 +4,7 @@
 ---- 
 
 <p align="center">
-  <img width="300px" hight="300px" src="https://github.com/blackechox/Battery-Indicator/assets/91375726/d31dd8bd-3576-440e-829b-ecc0131a7728" alt="js" />
+  <img width="300px" hight="300px" src="https://github.com/blackvoidx/Battery-Indicator/assets/91375726/d31dd8bd-3576-440e-829b-ecc0131a7728" alt="js" />
 </p>
 
 ---- 
@@ -42,4 +42,4 @@
 - Open the app in a web browser.
 - View the battery charge level displayed visually.
 
-![low-battery_1faab](https://github.com/blackechox/Battery-Check/assets/91375726/02d2dd9d-c9f3-408e-b91c-8cdb19f3a1b7)
+![low-battery_1faab](https://github.com/blackvoidx/Battery-Check/assets/91375726/02d2dd9d-c9f3-408e-b91c-8cdb19f3a1b7)
