@@ -66,7 +66,7 @@ export default function Home() {
               height={batteryHeight}
             />
             <Link
-              href={"https://github.com/mamad-1999"} target="_blank"
+              href={"https://github.com/blackvoidx"} target="_blank"
               className="fixed bottom-8 text-base font-semibold z-10">Mohammad Yousefvand
             </Link>
             <p className="fixed bottom-2 text-sm z-10">&copy; 2023 All Rights Reserved</p>
